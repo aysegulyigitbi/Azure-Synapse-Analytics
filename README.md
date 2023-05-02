@@ -21,45 +21,45 @@ Not: Azure Synapse Analytics şu an DataLake Storagelara ve Azure Storagelara ba
 
 ![image](https://user-images.githubusercontent.com/127193220/235668323-44a85bb0-f5aa-47af-9a22-dc7510f7ead8.png)
 
-Security
+## Security
 
 Azure Synapse Analytics oluşturmak için öncelikle güvenlik ayarlarını yapmanız gerekiyor. Kullanıcı adı ve şifre belirleyerek güvenlik önlemlerini alabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/127193220/235668522-6bb832b7-a0a2-474b-962c-2bd94208a106.png)
 
-Review and Create
+## Review and Create
 
 Ardından "Review and Create" seçeneği ile Azure Synapse Analytics'i oluşturabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/127193220/235668932-d4f18e9d-7cc0-4a4b-8f2b-a8fdad23c390.png)
 
-Deployment
+## Deployment
 
 ![image](https://user-images.githubusercontent.com/127193220/235669034-17e61795-012e-4079-9882-e7a431277ac5.png)
 
-Go to resource group
+## Go to resource group
 
 Deployment işlemi tamamlandıktan sonra "Go to resource group" butonuna tıklayarak oluşturduğunuz Azure Synapse Analytics kaynağına ulaşabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/127193220/235669164-e3c128e8-7a4c-42c5-a7f2-ce1fc5f59d42.png)
 
-Workspace
+## Workspace
 
 Workspace'a erişmek için Serveless SQL Endpoint'ini kullanabilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/127193220/235669280-3002c5d4-53b9-49bf-b87e-eefdf401e4e6.png)
 
-SQL'e Bağlanma
+## SQL'e Bağlanma
 
 ![image](https://user-images.githubusercontent.com/127193220/235669375-00a8031a-90f6-4379-a0bf-e472583296d9.png)
 
-Synapse Studio
+## Synapse Studio
 
 İşlemlerimizi SQL üzerinden yapabileceğimiz gibi Synapse Studio üzerinden de yapabiliriz.
 
 ![image](https://user-images.githubusercontent.com/127193220/235669507-0699382a-15c1-49b9-a06e-d09d2d4db33d.png)
 
-SQL Veritabanı Oluşturma
+## SQL Veritabanı Oluşturma
 
 Data bölümünden + işaretine tıklayarak SQL database'i seçiyoruz.
 
@@ -89,21 +89,21 @@ Select TOP 100 rows
 
 ![image](https://user-images.githubusercontent.com/127193220/235670175-65a8bcfe-ec30-412d-be74-dad44765201a.png)
 
-SQL'de veri kaynağını tarif ederek kullanma
+## SQL'de veri kaynağını tarif ederek kullanma
 
-Master Key ve Credential oluşturma
+## Master Key ve Credential oluşturma
 
 ![image](https://user-images.githubusercontent.com/127193220/235670259-23cc388d-7033-4717-846c-3380b63fca75.png)
 
-External Data Source Oluşturma
+## External Data Source Oluşturma
 
 ![image](https://user-images.githubusercontent.com/127193220/235670350-2ac84001-85de-4134-8a53-a07db49abe19.png)
 
-Kaynaktan Veri Setini Okuma
+## Kaynaktan Veri Setini Okuma
 
 ![image](https://user-images.githubusercontent.com/127193220/235670476-2d705bf3-c740-40d8-a90f-79af96d5a998.png)
 
-Json Dökümanını Okuma
+## Json Dökümanını Okuma
 
 İlk aşama olarak Json verisini yüklememiz gerekiyor.
 
@@ -113,7 +113,7 @@ JSON_VALUE yardımıyla sorgumuzu oluşturuyoruz.
 
 ![image](https://user-images.githubusercontent.com/127193220/235670642-1bdb6db8-d313-4361-9ee2-45d57f653872.png)
 
-Klasörlerin içinden verileri okuma
+## Klasörlerin içinden verileri okuma
 
 ![image](https://user-images.githubusercontent.com/127193220/235670733-90e05ddf-bf23-443d-ae5a-66c61622989b.png)
 
