@@ -2,6 +2,8 @@
 
 Herkese merhabalar, bu yazıda Azure Synapse Analytics'in Veri Sanallaştırma ve PolyBase özelliklerine dair bilgi vermek istiyorum. Veri Sanallaştırma, verilerin fiziksel konumundan bağımsız olarak kullanıcılara sunulmasını sağlayan bir işlem. PolyBase ise farklı veri kaynaklarındaki verileri SQL Server üzerinden sorgulamak için kullanılan bir teknolojidir. Ayrıca, makalede Azure Synapse Analytics oluşturma ve SQL veritabanı oluşturma adımlarını da işleyeceğiz. Umarım faydalı olur!
 
+For english please click here: https://medium.com/@ayigit/azure-synapse-analytics-data-virtualization-and-polybase-6ceb191d365a
+
 ![image](https://user-images.githubusercontent.com/127193220/235667584-dba3110a-30bb-4e34-a824-e8811eaaf4d7.png)
 
 Veri Sanallaştırma Nedir?
