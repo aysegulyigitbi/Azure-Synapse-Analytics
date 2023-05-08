@@ -153,3 +153,5 @@ Oluşturduğumuz Credential’I data source oluştururken kullanacağız.
 Şu an diskin içindeki private bir veriyi okuyabiliriz.
 
 ![image](https://user-images.githubusercontent.com/127193220/236761805-edf6bf4c-4948-4015-8cfb-73f6ecbe14b3.png)
+
+Azure Synapse Studio, veri analizi ve veri işlemesi yapmak için oldukça kullanışlı bir araçtır. Bu makalede, Synapse Studio kullanarak serverless SQL endpoint’i kullanarak SQL’e bağlanmanın, CSV dosyalarını nasıl sorgulayacağınızın ve dosyalarınızı nasıl yükleyeceğinizin adımlarını öğrendiniz. Azure Synapse Studio, büyük veri setleri üzerinde verimli bir şekilde çalışmanızı sağlar ve veri analizi ve işlemesi için ihtiyacınız olan araçları bir arada sunar.
