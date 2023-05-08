@@ -29,7 +29,7 @@ Normal bir tablo oluşturamadığımız için insert vb. işlemleri yapamıyoruz
 Fakat External Table oluşturabiliriz. Dışarıdaki bir diskteki format sorgulamamızı sağlıyor.
 Yani sadece viewler ve external table oluşturabilirken fakat fiziksel olarak bir tablo oluştamıyoruz.
 
-##Synapse Studio
+## Synapse Studio
 
 ![image](https://user-images.githubusercontent.com/127193220/236759565-889b05a2-dab5-4539-8b50-202f8595c84a.png)
 
@@ -145,4 +145,4 @@ Oluşturduğumuz Credential’I data source oluştururken kullanacağız.
 
 Şu an diskin içindeki private bir veriyi okuyabiliriz.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/127193220/236761805-edf6bf4c-4948-4015-8cfb-73f6ecbe14b3.png)
