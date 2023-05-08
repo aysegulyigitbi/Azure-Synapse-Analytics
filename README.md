@@ -40,9 +40,13 @@ Yani sadece viewler ve external table oluşturabilirken fakat fiziksel olarak bi
 CSV dosyaları, birçok işletmede yaygın olarak kullanılan bir dosya biçimidir ve sunucusuz SQL havuzunu kullanarak tek bir CSV dosyasını sorgulayabilirsiniz. 
 
 CSV dosyalarının farklı biçimleri olabilir:
+
 •	Başlık satırı olan ve olmayan
+
 •	Virgül ve sekmeyle ayrılmış değerler
+
 •	Windows ve Unix stili satır sonları
+
 •	Alıntılanmayan ve alıntılanmayan değerler ve kaçan karakterler
 
 OPENROWSET işlevi, dosyanızın URL'sini sağlayarak CSV dosyasının içeriğini okumanızı sağlar.
