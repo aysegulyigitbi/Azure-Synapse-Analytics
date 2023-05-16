@@ -1,7 +1,7 @@
 # Azure Synapse Studio: Serverless SQL Pools ile CSV Dosyaları Sorgulama
 Azure Synapse Studio, veri analizi ve veri işlemesi yapmak için kullanılan güçlü bir araçtır. Synapse Studio, SQL, Spark ve Pipelines gibi farklı araçları bir arada kullanarak, büyük veri setleri üzerinde işlemler yapmamıza olanak sağlar. Bu makalede, Azure Synapse Studio ile CSV dosyalarını sorgulamanın nasıl yapılacağını öğreneceğiz. Ayrıca, serverless SQL endpoint’i kullanarak SQL’e nasıl bağlanacağınızı ve dosyalarınızı nasıl yükleyebileceğinizi ile ilgili bilgi sahibi olabilirsiniz.
 
-For turkish please click here: https://medium.com/nerd-for-tech/azure-synapse-studio-querying-csv-files-with-serverless-sql-pools-59393349176b 
+For english please click here: https://medium.com/nerd-for-tech/azure-synapse-studio-querying-csv-files-with-serverless-sql-pools-59393349176b 
 
 ![image](https://user-images.githubusercontent.com/127193220/236772866-c6f9cd75-23cb-4ceb-b181-68ea86d60a86.png)
 
