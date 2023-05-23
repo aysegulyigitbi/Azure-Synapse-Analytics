@@ -4,7 +4,7 @@ Büyük veri analizi ve işleme için kullanılan bir bulut tabanlı veri analit
 
 ![image](https://github.com/aysegulyigitbi/Azure-Synapse-Analytics/assets/127193220/6f546674-b5d1-4e9c-9b4d-9787d1fa51ab)
 
-**Azure Synapse Analytics Oluşturma **
+**Azure Synapse Analytics Oluşturma**
 
 Bu aşamada, Azure Synapse Analytics hizmetini oluşturmanız gerekmektedir. Bu hizmet, büyük veri analizi ve işleme için kullanılan bir bulut tabanlı veri analitiği platformudur.
 
