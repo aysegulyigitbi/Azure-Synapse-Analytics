@@ -1,4 +1,4 @@
-# Azure Synapse Analytics ile Veri Entegrasyonu, Analizi ve Rapor Oluşturma Süreci
+# Azure Synapse Analytics ile Veri Entegrasyonundan Etkileyici Raporlara Uçtan Uca İş Zekası
 
 Büyük veri analizi ve işleme için kullanılan bir bulut tabanlı veri analitiği platformu olan Azure Synapse Analytics, veri entegrasyonu, analizi ve rapor oluşturma süreçlerini kolaylaştırır. Bu makalede, Azure Synapse Analytics'i oluşturma ve yapılandırma adımlarını, güvenlik önlemlerini, veri entegrasyonu ve rapor oluşturma işlemlerini adım adım inceleyeceğiz.
 
