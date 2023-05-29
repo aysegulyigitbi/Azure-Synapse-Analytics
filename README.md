@@ -2,6 +2,8 @@
 
 Büyük veri analizi ve işleme için kullanılan bir bulut tabanlı veri analitiği platformu olan Azure Synapse Analytics, veri entegrasyonu, analizi ve rapor oluşturma süreçlerini kolaylaştırır. Bu makalede, Azure Synapse Analytics'i oluşturma ve yapılandırma adımlarını, güvenlik önlemlerini, veri entegrasyonu ve rapor oluşturma işlemlerini adım adım inceleyeceğiz.
 
+For english please click here: https://medium.com/@ayigit/data-integration-analysis-and-report-generation-with-azure-synapse-analytics-ff8439b00908
+
 ![image](https://github.com/aysegulyigitbi/Azure-Synapse-Analytics/assets/127193220/6f546674-b5d1-4e9c-9b4d-9787d1fa51ab)
 
 **Azure Synapse Analytics Oluşturma**
